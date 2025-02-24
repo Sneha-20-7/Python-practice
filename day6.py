@@ -81,7 +81,7 @@ else:
 text = input("enter the text ")
 spam = False
 
-if("make a lot of money " in text)
+if("make a lot of money " in text):
     spam  = True
 elif("bye now" in text):
     spam = True
